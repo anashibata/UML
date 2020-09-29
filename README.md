@@ -1,2 +1,1 @@
-# UML
-Teaching UML
+This a gamified UML class I gave for Computing Software Engineer students at Pontifical Catholic University of Paraná, Curitiba-Brazil
